@@ -30,4 +30,4 @@ Diese Dokumentation enthält keine Informationen zu Technologien auf denen das h
 - Quarto https://quarto.org/
 - Python https://www.python.org/doc/
 - Nix https://nixos.org/learn/
-
+- Chromium https://www.chromium.org/
