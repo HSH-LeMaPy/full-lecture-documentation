@@ -1,10 +1,13 @@
 # Installation
 
+In diesem Abschnitt wird das Aufsetzen der Umgebung zum Nutzen der Template behandelt.
+
 ## Vorwort zur Installation
 
 Um ein Projekt, welches auf der *HsH Full Lecture Template* basiert aufzusetzen und betriebsbereit zu machen, bedarf es verschiedener Programme. Wie genau diese auf welchem Betriebssystem installiert werden ändert sich häufig. Daher wurde sich beim verfassen dieser Dokumentation dazu entschieden, nur auf die Installations-Dokumentationen der zugrundeliegenden Technologien zu verweisen. Es wird hierfür empfohlen KI zur Hilfe zu nehmen.
 
 ## Repository lokal ziehen
+
 [Installieren Sie sich git](./installation-git.md) und ziehen Sie sich das Repository mit
 
 ```bash
