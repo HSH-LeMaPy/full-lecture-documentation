@@ -1,5 +1,10 @@
 # HsH Full Lecture Documentation
 
+> [!WARNING]
+> 🚧 **Work in Progress**
+>
+> Dieses Repository befindet sich aktuell noch am Anfang seiner Entwicklung.
+
 ## Einleitung
 
 Die in diesem Repository lebende Dokumentation unterstützt Sie beim Aufsetzen neuer, sowie dem Weiterentwickeln bereits bestehender Quarto-Projekte die auf der [Full Lecture Template](https://github.com/HSH-LeMaPy/full-lecture-template) der HsH basieren. Sie umfasst alles was von einer Dokumentation zu einem solchen Quarto-Projekt zu erwarten ist und führt Sie somit umfangreich in diese ein.
