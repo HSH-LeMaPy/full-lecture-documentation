@@ -25,4 +25,4 @@ Dafür wird ein besonderer Fokus darauf gelegt, ein gutes Verständnis für dies
 
 ## Start
 
-Um die Dokumentation anzufangen zu lesen, drücken Sie auf den ***docs* Ordner**. Darin sollten Sie direkt ein Inhaltsverzeichnis finden, welche Sie durch die Dokumentation führt.
+Um die Dokumentation anzufangen zu lesen, drücken Sie auf den [*docs* Ordner](docs/README.md). Darin sollten Sie direkt ein Inhaltsverzeichnis finden, welche Sie durch die Dokumentation führt.
