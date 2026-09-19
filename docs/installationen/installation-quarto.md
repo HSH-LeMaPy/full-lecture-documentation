@@ -129,5 +129,5 @@ Dadurch wird eine HTML-Datei erzeugt.
 
 ## Navigation
 
-[Zurück zum Installationsdokument](./installation.md)
+[Zurück zum Installationsdokument](./../installation.md)
 

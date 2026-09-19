@@ -8,7 +8,7 @@ Um ein Projekt, welches auf der *HsH Full Lecture Template* basiert aufzusetzen 
 
 ## Repository lokal ziehen
 
-[Installieren Sie sich git](./installation-git.md) und ziehen Sie sich das Repository mit
+[Installieren Sie sich git](./installationen/installation-git.md) und ziehen Sie sich das Repository mit
 
 ```bash
 git clone https://github.com/HSH-LeMaPy/hsh-full-lecture-template
@@ -22,7 +22,7 @@ Wenn Sie Linux oder einen Mac nutzen (oder [WSL](https://learn.microsoft.com/en-
 
 Dabei reicht es, dass eine Person bei Bedarf auch mit hilfe einer KI, eine sogenannte *Nix Flake* definiert bzw die bereits definierte pflegt und alle anderen diese nur ausführen.
 
-Zunächst sollten Sie sich [Nix installieren](./installation-nix.md).
+Zunächst sollten Sie sich [Nix installieren](./installationen/installation-nix.md).
 
 Jetzt müssen Sie über das Terminal in den Ordner in dem Sie das git Projekt haben navigieren und dann in den Unterordner *Routinen* gehen. Führen Sie dann folgenden Befehl aus:
 
@@ -38,12 +38,12 @@ Diese Methode ist deutlich mehr Arbeit und fehleranfälliger, weswegen empfohlen
 
 Installieren Sie sich zunächst folgende Programme:
 
-- [Quarto hinstallieren](./installation-quarto.md)
-- [Python installieren](./installation-python.md)
+- [Quarto hinstallieren](./installationen/installation-quarto.md)
+- [Python installieren](./installationen/installation-python.md)
 
 Außerdem benötigen Sie einen Chromium basierten Browser auf Ihrem System. Die meisten haben das mit Google Chrome bereits, wenn nicht, sollten Sie sich noch Chromium installieren:
 
-- [Chromium installieren](./installation-chromium.md)
+- [Chromium installieren](./installationen/installation-chromium.md)
 
 Als nächstes benötigen Sie alle Python-Packages die Sie in dem Projekt verwenden möchten. Um zukünftig auch die .ipynb-Dateien als ganzes ausführen zu können, sind dabei besonders die folgenden beiden Empfohlen:
 
@@ -57,4 +57,4 @@ Um die Installation nun zu prüfen, führen Sie die Befehle aus dem Dokument *re
 
 ## Navigation
 
-[Vorseite](./README.md) / [Nachseite]()
+[Vorseite](./README.md) / [Nachseite](./anwendung-aus-studierendenperspektive.md)

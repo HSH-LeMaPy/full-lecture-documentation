@@ -142,5 +142,5 @@ deactivate
 
 ## Navigation
 
-[Zurück zum Installationsdokument](./installation.md)
+[Zurück zum Installationsdokument](./../installation.md)
 

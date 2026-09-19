@@ -191,4 +191,4 @@ Nix lädt die benötigten Abhängigkeiten in den Nix Store, baut beziehungsweise
 
 ## Navigation
 
-[Zurück zum Installationsdokument](./installation.md)
+[Zurück zum Installationsdokument](./../installation.md)
