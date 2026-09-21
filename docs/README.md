@@ -7,7 +7,9 @@ Bitte gehen Sie das Inhaltsverzeichnis schrittweise durch. Unten in jeder Seite 
 1. 🛠 [Installation](installation.md)
 2. 👂 [Anwendung aus Studierendenperspektive](./anwendung-aus-studierendenperspektive.md)
 3. 🗣️ [Anwendung aus Dozierendenperspektive](./anwendung-aus-dozierendenperspektive.md)
-4. 📁 Ordnerstruktur
-5. Kollaborativ arbeiten
-5. 📐 Konventionen
-6. 📖 Glossar
+4. 📁 [Ordnerstruktur](./ordnerstruktur.md)
+5. Quarto Dateien
+6. Inhaltliche Anpassungen
+7. Inhaltliche Anpassungen der Aufgabenblätter
+6. 📐 Konventionen
+7. 📖 Glossar
