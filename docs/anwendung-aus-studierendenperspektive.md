@@ -58,4 +58,4 @@ Die einzelnen html-Seiten haben eine bestimmte Struktur. Hier wird sie am Beispi
 
 ## Navigation
 
-[Vorseite](./installation.md) / [Nachseite]()
+[Vorseite](./installation.md) / [Nachseite](./anwendung-aus-dozierendenperspektive.md)
