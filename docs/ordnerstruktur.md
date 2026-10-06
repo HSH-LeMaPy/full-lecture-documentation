@@ -6,7 +6,7 @@ Bevor das Hauptthema, nämlich die inhaltliche Anpassung der Unterlagen behandel
 
 Ganz außen sollte sich folgendes befinden, ggf ohne README:
 
-![ordner außen](../images/ordner_aussen.png)
+<img src="../images/ordner_aussen.png" alt="ordner außen" width="500">
 
 Diese Inhalte werden wir nun nach und nach behandeln.
 
