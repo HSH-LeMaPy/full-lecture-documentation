@@ -4,7 +4,7 @@ Bevor das Hauptthema, nämlich die inhaltliche Anpassung der Unterlagen behandel
 
 ## Außen
 
-Ganz außen sollte sich folgendes befinden:
+Ganz außen sollte sich folgendes befinden, ggf ohne README:
 
 ![ordner außen](../images/ordner_aussen.png)
 
@@ -50,4 +50,4 @@ Eine Infodatei für Github.
 
 ## Navigation
 
-[Vorseite](./anwendung-aus-dozierendenperspektive.md) / [Nachseite]()
+[Vorseite](./anwendung-aus-dozierendenperspektive.md) / [Nachseite](./quarto-dateien.md)

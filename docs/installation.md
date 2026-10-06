@@ -56,15 +56,18 @@ Außerdem benötigen Sie einen Chromium basierten Browser auf Ihrem System. Die 
 
 - [Chromium installieren](./installationen/installation-chromium.md)
 
-Als nächstes benötigen Sie alle Python-Packages die Sie in dem Projekt verwenden möchten. Um zukünftig auch die .ipynb-Dateien als ganzes ausführen zu können, sind dabei besonders die folgenden beiden Empfohlen:
+Als nächstes benötigen Sie alle Python-Packages die Sie in dem Projekt verwenden möchten. Um zukünftig auch die .ipynb-Dateien als ganzes ausführen zu können, sind dabei besonders die folgenden Empfohlen:
 
 ```bash
-pip install ipykernel jupyter
+pip install black ipykernel jupyter
 ```
 
-## Installation prüfen
+## Installation prüfen (alles rendern)
 
 Um die Installation nun zu prüfen, führen Sie die Befehle aus dem Dokument *render_website.ipynb* aus. 
+
+> [!WARNING]
+> Bitte sorgen Sie dafür, dass Sie das gesamte Template ordentlich und Fehlerfrei gerendert bekommen bevor Sie fortfahren, oder anfangen Änderungen an diesem vorzunehmen! Fehlerbehebung ist jetzt noch einfacher als später.
 
 ## Extensions ggf aktualisieren
 
