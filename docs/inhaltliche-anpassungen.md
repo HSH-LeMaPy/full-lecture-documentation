@@ -6,9 +6,17 @@ Sie haben nun verschiedene Dokumente, welche Sie über die Website erreichen kö
 
 In den Dateien *Material/Inhalte/1I_Einfuehrung.qmd*, *Material/Begleitdokumente/1B_Einfuehrung.qmd*, *Material/Uebungen/Aufgabenblaetter/1A_content.qmd* und *Material/Cheatsheet/Cheatsheet.qmd* finden Sie bereits alle grundlegenden Beispielstrukturen dazu wie Sie Ihre .qmd-Dateien inhaltlich füllen können.
 
+## Änderungen prüfen
+
+Wenn Sie Änderungen vorgenommen haben, brauchen Sie nicht jedes mal die gesamte website neu zu rendern. Geben Sie nach quarto render einfach noch den Pfad zur Datei an. Dadurch wird dann nur diese gerendert.
+
+Wenn Sie ein Aufgabenblatt rendern möchten, achten Sie darauf nicht eine content-Datei oder eine Einzelaufgabe zu rendern, sondern eine Strukturdatei, wie *Material/Uebungen/Aufgabenblaetter_Strukturen/1A.qmd* oder für die Lösung *Material/Uebungen/Aufgabenblaetter_Strukturen/1A_sol.qmd*.
+
+Beachten Sie außerdem das rendering immer aus dem Ursprungsverzeichnis heraus auszuführen (also dort wo die .git liegt) und nicht in den Unterverzeichnissen zu rendern.
+
 ## Auslagern
 
-Bestimmte Inhalte sollten dabei nicht in die .qmd-Dateien selbst geschrieben, sondern ausgelagert werden.
+Bestimmte Inhalte sollten nicht in die .qmd-Dateien selbst geschrieben, sondern ausgelagert werden.
 
 Bilder sollen in den Bilderordner *Material/Bilder* und auf sie soll mit folgender Syntax gezeigt werden:
 

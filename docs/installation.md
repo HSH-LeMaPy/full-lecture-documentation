@@ -64,7 +64,9 @@ pip install black ipykernel jupyter
 
 ## Installation prüfen (alles rendern)
 
-Um die Installation nun zu prüfen, führen Sie die Befehle aus dem Dokument *render_website.ipynb* aus. 
+Um die Installation nun zu prüfen, führen Sie die Befehle aus dem Dokument *render_website.ipynb* aus.
+
+Unter *_output/index.html* finden Sie jetzt den Grundstein der Website.
 
 > [!WARNING]
 > Bitte sorgen Sie dafür, dass Sie das gesamte Template ordentlich und Fehlerfrei gerendert bekommen bevor Sie fortfahren, oder anfangen Änderungen an diesem vorzunehmen! Fehlerbehebung ist jetzt noch einfacher als später.
