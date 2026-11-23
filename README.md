@@ -3,7 +3,7 @@
 > [!WARNING]
 > 🚧 **Work in Progress**
 >
-> Dieses Repository befindet sich aktuell noch am Anfang seiner Entwicklung.
+> Dieses Repository befindet sich noch in seiner Entwicklung.
 
 ## Einleitung
 
